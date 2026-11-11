@@ -1,3 +1,7 @@
+## Live URL
+https://carlojaydegala-png.github.io/org-fair/
+
+
 # DEGALA - Unit 7 Assignment (CICT Org Fair Part 3)
 
 CMS Used: Contentful
