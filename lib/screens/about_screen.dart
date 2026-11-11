@@ -74,6 +74,7 @@ class AboutScreen extends StatelessWidget {
               'right from this app.',
             ),
           ),
+          const VersionTile(),
         ],
       ),
     );
